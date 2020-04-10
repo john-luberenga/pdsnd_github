@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+10 April 2020
 
 ### Project Title
-Replace the Project Title
+Explore BikeShare Data
 
 ### Description
-Describe what your project is about and what it does
+In this project, I make use of R to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I write code to import the data and answer interesting questions about it by computing descriptive statistics and making visualizations!
 
 ### Files used
-Include the files used
+- (Chicago.csv, New York City.csv, Washington.csv)
+- Explore_bikeshare_data.r
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.motivateco.com/
+https://github.com/udacity/pdsnd_github
